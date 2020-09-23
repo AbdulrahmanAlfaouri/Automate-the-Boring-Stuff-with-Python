@@ -1,0 +1,686 @@
+
+1.What is the Capitale of Pennsylvania
+    A:Nashville
+    B:Indianapolis
+    C:Harrisburg
+    D:Montpelier
+                
+
+2.What is the Capitale of South Carolina
+    A:Jefferson City
+    B:Columbia
+    C:Raleigh
+    D:Cheyenne
+                
+
+3.What is the Capitale of Illinois
+    A:Springfield
+    B:Topeka
+    C:Atlanta
+    D:Helena
+                
+
+4.What is the Capitale of Arkansas
+    A:Bismarck
+    B:Sacramento
+    C:Dover
+    D:Little Rock
+                
+
+5.What is the Capitale of Rhode Island
+    A:Providence
+    B:Jackson
+    C:Des Moines
+    D:Springfield
+                
+
+6.What is the Capitale of Maine
+    A:Topeka
+    B:Denver
+    C:Montpelier
+    D:Augusta
+                
+
+7.What is the Capitale of Utah
+    A:Denver
+    B:Salt Lake City
+    C:Richmond
+    D:Lincoln
+                
+
+8.What is the Capitale of California
+    A:Montgomery
+    B:Boston
+    C:Richmond
+    D:Sacramento
+                
+
+9.What is the Capitale of South Dakota
+    A:Pierre
+    B:Montgomery
+    C:Montpelier
+    D:Baton Rouge
+                
+
+10.What is the Capitale of Montana
+    A:Helena
+    B:Annapolis
+    C:Montpelier
+    D:Denver
+                
+
+11.What is the Capitale of NewMexico
+    A:Phoenix
+    B:Santa Fe
+    C:Salt Lake City
+    D:Salem
+                
+
+12.What is the Capitale of Connecticut
+    A:Hartford
+    B:Lansing
+    C:Augusta
+    D:Concord
+                
+
+13.What is the Capitale of Michigan
+    A:Honolulu
+    B:Salt Lake City
+    C:Lansing
+    D:Saint Paul
+                
+
+14.What is the Capitale of Idaho
+    A:Santa Fe
+    B:Cheyenne
+    C:Boise
+    D:Raleigh
+                
+
+15.What is the Capitale of New Hampshire
+    A:Providence
+    B:Concord
+    C:Atlanta
+    D:Nashville
+                
+
+16.What is the Capitale of Louisiana
+    A:Montpelier
+    B:Baton Rouge
+    C:Richmond
+    D:Springfield
+                
+
+17.What is the Capitale of Alabama
+    A:Montgomery
+    B:Des Moines
+    C:Denver
+    D:Harrisburg
+                
+
+18.What is the Capitale of Iowa
+    A:Sacramento
+    B:Denver
+    C:Atlanta
+    D:Des Moines
+                
+
+19.What is the Capitale of Wisconsin
+    A:Olympia
+    B:Austin
+    C:Madison
+    D:Lansing
+                
+
+20.What is the Capitale of Texas
+    A:Bismarck
+    B:Cheyenne
+    C:Austin
+    D:Tallahassee
+                
+
+21.What is the Capitale of WestVirginia
+    A:Nashville
+    B:Frankfort
+    C:Charleston
+    D:Oklahoma City
+                
+
+22.What is the Capitale of Oklahoma
+    A:Harrisburg
+    B:Oklahoma City
+    C:Frankfort
+    D:Nashville
+                
+
+23.What is the Capitale of Missouri
+    A:Concord
+    B:Jefferson City
+    C:Madison
+    D:Little Rock
+                
+
+24.What is the Capitale of Nebraska
+    A:Des Moines
+    B:Lansing
+    C:Pierre
+    D:Lincoln
+                
+
+25.What is the Capitale of Delaware
+    A:Boise
+    B:Dover
+    C:Cheyenne
+    D:Salem
+                
+
+26.What is the Capitale of Kentucky
+    A:Atlanta
+    B:Lansing
+    C:Frankfort
+    D:Montpelier
+                
+
+27.What is the Capitale of Minnesota
+    A:Honolulu
+    B:Providence
+    C:Saint Paul
+    D:Hartford
+                
+
+28.What is the Capitale of Oregon
+    A:Salem
+    B:Phoenix
+    C:Bismarck
+    D:Annapolis
+                
+
+29.What is the Capitale of Nevada
+    A:Topeka
+    B:Tallahassee
+    C:Carson City
+    D:Boston
+                
+
+30.What is the Capitale of Mississippi
+    A:Jackson
+    B:Springfield
+    C:Trenton
+    D:Albany
+                
+
+31.What is the Capitale of Kansas
+    A:Topeka
+    B:Saint Paul
+    C:Des Moines
+    D:Madison
+                
+
+32.What is the Capitale of New Jersey
+    A:Dover
+    B:Annapolis
+    C:Denver
+    D:Trenton
+                
+
+33.What is the Capitale of Alaska
+    A:Little Rock
+    B:Frankfort
+    C:Juneau
+    D:Salt Lake City
+                
+
+34.What is the Capitale of Wyoming
+    A:Nashville
+    B:Cheyenne
+    C:Columbia
+    D:Augusta
+                
+
+35.What is the Capitale of Florida
+    A:Little Rock
+    B:Helena
+    C:Nashville
+    D:Tallahassee
+                
+
+36.What is the Capitale of Indiana
+    A:Indianapolis
+    B:Dover
+    C:Augusta
+    D:Providence
+                
+
+37.What is the Capitale of Georgia
+    A:Atlanta
+    B:Raleigh
+    C:Topeka
+    D:Olympia
+                
+
+38.What is the Capitale of Massachusetts
+    A:Columbus
+    B:Boston
+    C:Boise
+    D:Honolulu
+                
+
+39.What is the Capitale of Maryland
+    A:Lansing
+    B:Santa Fe
+    C:Salt Lake City
+    D:Annapolis
+                
+
+40.What is the Capitale of North Carolina
+    A:Denver
+    B:Bismarck
+    C:Concord
+    D:Raleigh
+                
+
+41.What is the Capitale of Washington
+    A:Phoenix
+    B:Montpelier
+    C:Olympia
+    D:Albany
+                
+
+42.What is the Capitale of Tennessee
+    A:Augusta
+    B:Columbia
+    C:Nashville
+    D:Des Moines
+                
+
+43.What is the Capitale of Vermont
+    A:Montpelier
+    B:Lansing
+    C:Baton Rouge
+    D:Jefferson City
+                
+
+44.What is the Capitale of Ohio
+    A:Columbus
+    B:Pierre
+    C:Baton Rouge
+    D:Providence
+                
+
+45.What is the Capitale of Virginia
+    A:Providence
+    B:Honolulu
+    C:Richmond
+    D:Charleston
+                
+
+46.What is the Capitale of North Dakota
+    A:Bismarck
+    B:Jackson
+    C:Frankfort
+    D:Des Moines
+                
+
+47.What is the Capitale of Hawaii
+    A:Albany
+    B:Frankfort
+    C:Baton Rouge
+    D:Honolulu
+                
+
+48.What is the Capitale of Colorado
+    A:Montgomery
+    B:Augusta
+    C:Carson City
+    D:Denver
+                
+
+49.What is the Capitale of Arizona
+    A:Nashville
+    B:Phoenix
+    C:Helena
+    D:Concord
+                
+
+1.What is the Capitale of Montana
+    A:Baton Rouge
+    B:Helena
+    C:Cheyenne
+    D:Columbia
+                
+
+2.What is the Capitale of Ohio
+    A:Olympia
+    B:Richmond
+    C:Santa Fe
+    D:Columbus
+                
+
+3.What is the Capitale of Florida
+    A:Indianapolis
+    B:Richmond
+    C:Tallahassee
+    D:Columbus
+                
+
+4.What is the Capitale of Pennsylvania
+    A:Cheyenne
+    B:Harrisburg
+    C:Concord
+    D:Albany
+                
+
+5.What is the Capitale of Louisiana
+    A:Baton Rouge
+    B:Augusta
+    C:Annapolis
+    D:Denver
+                
+
+6.What is the Capitale of Maryland
+    A:Carson City
+    B:Annapolis
+    C:Boston
+    D:Albany
+                
+
+7.What is the Capitale of Alaska
+    A:Jefferson City
+    B:Juneau
+    C:Springfield
+    D:Olympia
+                
+
+8.What is the Capitale of Hawaii
+    A:Honolulu
+    B:Nashville
+    C:Tallahassee
+    D:Juneau
+                
+
+9.What is the Capitale of Connecticut
+    A:Hartford
+    B:Topeka
+    C:Harrisburg
+    D:Bismarck
+                
+
+10.What is the Capitale of South Carolina
+    A:Austin
+    B:Columbia
+    C:Concord
+    D:Jefferson City
+                
+
+11.What is the Capitale of Arizona
+    A:Jackson
+    B:Phoenix
+    C:Boise
+    D:Hartford
+                
+
+12.What is the Capitale of Georgia
+    A:Olympia
+    B:Harrisburg
+    C:Montgomery
+    D:Atlanta
+                
+
+13.What is the Capitale of Nevada
+    A:Des Moines
+    B:Montgomery
+    C:Helena
+    D:Carson City
+                
+
+14.What is the Capitale of Washington
+    A:Olympia
+    B:Montgomery
+    C:Richmond
+    D:Providence
+                
+
+15.What is the Capitale of Idaho
+    A:Boise
+    B:Olympia
+    C:Salt Lake City
+    D:Carson City
+                
+
+16.What is the Capitale of Massachusetts
+    A:Olympia
+    B:Hartford
+    C:Madison
+    D:Boston
+                
+
+17.What is the Capitale of Illinois
+    A:Baton Rouge
+    B:Springfield
+    C:Jefferson City
+    D:Concord
+                
+
+18.What is the Capitale of Rhode Island
+    A:Harrisburg
+    B:Augusta
+    C:Charleston
+    D:Providence
+                
+
+19.What is the Capitale of Michigan
+    A:Sacramento
+    B:Boise
+    C:Lansing
+    D:Des Moines
+                
+
+20.What is the Capitale of Utah
+    A:Des Moines
+    B:Atlanta
+    C:Salt Lake City
+    D:Concord
+                
+
+21.What is the Capitale of Missouri
+    A:Denver
+    B:Salt Lake City
+    C:Jefferson City
+    D:Sacramento
+                
+
+22.What is the Capitale of Mississippi
+    A:Jackson
+    B:Montgomery
+    C:Atlanta
+    D:Boston
+                
+
+23.What is the Capitale of New Jersey
+    A:Dover
+    B:Indianapolis
+    C:Frankfort
+    D:Trenton
+                
+
+24.What is the Capitale of Minnesota
+    A:Saint Paul
+    B:Carson City
+    C:Augusta
+    D:Raleigh
+                
+
+25.What is the Capitale of South Dakota
+    A:Indianapolis
+    B:Jackson
+    C:Montgomery
+    D:Pierre
+                
+
+26.What is the Capitale of North Carolina
+    A:Des Moines
+    B:Raleigh
+    C:Columbia
+    D:Nashville
+                
+
+27.What is the Capitale of Wisconsin
+    A:Madison
+    B:Jefferson City
+    C:Augusta
+    D:Annapolis
+                
+
+28.What is the Capitale of Oklahoma
+    A:Tallahassee
+    B:Pierre
+    C:Richmond
+    D:Oklahoma City
+                
+
+29.What is the Capitale of Virginia
+    A:Harrisburg
+    B:Richmond
+    C:Phoenix
+    D:Jackson
+                
+
+30.What is the Capitale of Indiana
+    A:Lansing
+    B:Phoenix
+    C:Olympia
+    D:Indianapolis
+                
+
+31.What is the Capitale of Oregon
+    A:Raleigh
+    B:Richmond
+    C:Harrisburg
+    D:Salem
+                
+
+32.What is the Capitale of Alabama
+    A:Salem
+    B:Montgomery
+    C:Des Moines
+    D:Trenton
+                
+
+33.What is the Capitale of Tennessee
+    A:Lansing
+    B:Nashville
+    C:Lincoln
+    D:Dover
+                
+
+34.What is the Capitale of WestVirginia
+    A:Frankfort
+    B:Nashville
+    C:Charleston
+    D:Olympia
+                
+
+35.What is the Capitale of North Dakota
+    A:Boise
+    B:Austin
+    C:Bismarck
+    D:Salt Lake City
+                
+
+36.What is the Capitale of New York
+    A:Albany
+    B:Cheyenne
+    C:Springfield
+    D:Tallahassee
+                
+
+37.What is the Capitale of Iowa
+    A:Concord
+    B:Des Moines
+    C:Columbia
+    D:Lansing
+                
+
+38.What is the Capitale of Arkansas
+    A:Columbus
+    B:Baton Rouge
+    C:Little Rock
+    D:Phoenix
+                
+
+39.What is the Capitale of California
+    A:Baton Rouge
+    B:Springfield
+    C:Trenton
+    D:Sacramento
+                
+
+40.What is the Capitale of New Hampshire
+    A:Oklahoma City
+    B:Dover
+    C:Jackson
+    D:Concord
+                
+
+41.What is the Capitale of Colorado
+    A:Baton Rouge
+    B:Cheyenne
+    C:Austin
+    D:Denver
+                
+
+42.What is the Capitale of Kentucky
+    A:Frankfort
+    B:Des Moines
+    C:Baton Rouge
+    D:Jackson
+                
+
+43.What is the Capitale of NewMexico
+    A:Springfield
+    B:Frankfort
+    C:Santa Fe
+    D:Hartford
+                
+
+44.What is the Capitale of Texas
+    A:Austin
+    B:Indianapolis
+    C:Richmond
+    D:Juneau
+                
+
+45.What is the Capitale of Vermont
+    A:Frankfort
+    B:Richmond
+    C:Trenton
+    D:Montpelier
+                
+
+46.What is the Capitale of Wyoming
+    A:Carson City
+    B:Juneau
+    C:Cheyenne
+    D:Trenton
+                
+
+47.What is the Capitale of Maine
+    A:Des Moines
+    B:Atlanta
+    C:Honolulu
+    D:Augusta
+                
+
+48.What is the Capitale of Kansas
+    A:Des Moines
+    B:Topeka
+    C:Carson City
+    D:Denver
+                
+
+49.What is the Capitale of Delaware
+    A:Salem
+    B:Dover
+    C:Boise
+    D:Montpelier
+                
